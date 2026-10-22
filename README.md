@@ -45,3 +45,7 @@ Financial Analysis | Data Analysis | Excel Dashboarding | KPI Reporting | Busine
 Project File
 
 The Excel workbook containing the financial analysis and dashboard is available in this repository.
+
+## Dashboard Preview
+
+![Nova Retail Financial Dashboard](Nova_Retail_Dashboard.png)

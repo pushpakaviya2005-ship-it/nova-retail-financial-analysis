@@ -104,7 +104,7 @@ Tools Used
 
 Microsoft Power BI
 
-Power Query and DAX (if used)
+Power Query,DAX
 
 Dashboard Preview
 

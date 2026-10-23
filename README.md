@@ -83,3 +83,34 @@ Nova_Retail_Financial_Analysis.xlsb – Original Excel workbook
 Conclusion
 
 This project demonstrates practical skills in financial analysis, KPI reporting, Excel dashboards, profitability analysis, and business decision support.
+
+Project 2: Power BI Financial Performance Dashboard
+
+Project Overview
+
+An interactive financial performance dashboard developed using Microsoft Power BI to analyse retail business performance and support data-driven decision-making.
+
+Key Analysis
+
+Financial KPI visualisation
+
+Revenue and profitability analysis
+
+Regional performance comparison
+
+Product category performance
+
+Tools Used
+
+Microsoft Power BI
+
+Power Query and DAX (if used)
+
+Dashboard Preview
+
+
+
+Project File
+
+View Power BI Dashboard File
+![Power BI Financial Performance Dashboard](Nova_Retail_PowerBI_Dashboard.png)

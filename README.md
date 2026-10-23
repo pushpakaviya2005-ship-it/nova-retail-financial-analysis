@@ -2,7 +2,7 @@ Nova Retail Financial Performance Analysis
 
 Project Overview
 
-This project analyses the financial performance of a retail business using Microsoft Excel. It includes financial calculations, KPI summaries, Pivot Tables, charts, and an interactive dashboard to support business decision-making.
+This project analyzes the financial performance of a retail business using Microsoft Excel. It includes financial calculations, KPI summaries, Pivot Tables, charts, and an interactive dashboard to support business decision-making.
 
 Tools Used
 
@@ -16,58 +16,70 @@ Charts and Dashboard
 
 Key Financial Metrics
 
+Metric
+
+Value
+
 Total Revenue
+
+₹4,25,59,000
 
 Total Gross Profit
 
-Gross Margin %
+₹1,35,44,200
+
+Gross Margin
+
+31.82%
 
 Total Operating Expenses
 
+₹47,28,500
+
 Total Operating Profit
 
-Revenue Variance and Variance %
+₹88,15,700
 
-Business Analysis
+Revenue Variance
 
-Regional revenue comparison
+₹20,14,000
 
-Product category revenue analysis
+Revenue Variance %
 
-Gross margin comparison by product category
+4.97%
 
-Financial performance and budget variance analysis
+Key Business Insights
 
-Skills Demonstrated
+Regional Performance: Chennai generated the highest revenue at ₹2,67,33,000, making it the largest revenue contributor among the three regions.
 
-Financial Analysis | Data Analysis | Excel Dashboarding | KPI Reporting | Business Insights
+Product Performance: Electronics generated the highest revenue at ₹3,60,69,000.
 
-Project File
+Gross Margin Analysis: Furniture achieved a 40% gross margin, compared with 30.35% for Electronics.
 
-The Excel workbook containing the financial analysis and dashboard is available in this repository.
+Profitability: The business generated an operating profit of ₹88,15,700.
+
+Business Recommendation: Review the factors driving Furniture's higher gross margin and explore opportunities to improve Electronics profitability.
+
+Revenue by Region
+
+Chennai: ₹2,67,33,000
+
+Bangalore: ₹85,75,000
+
+Hyderabad: ₹72,51,000
 
 Dashboard Preview
 
-![Nova Retail Financial Dashboard](Nova_Retail_Dashboard.png)
 
-Financial Insights
 
-Revenue Performance: Compared actual revenue against budget revenue to identify over- and under-performance.
+Project Files
 
-Profitability Analysis: Evaluated gross profit, gross margin, and operating profit to understand overall financial performance.
+Nova_Retail_Financial_Analysis.xlsx – Excel financial analysis
 
-Regional Analysis: Compared revenue across Chennai, Bangalore, and Hyderabad to identify the leading region.
+Nova_Retail_Financial_Analysis.xlsb – Original Excel workbook
 
-Product Analysis: Compared Electronics and Furniture performance using revenue, gross profit, and gross margin.
+![Nova Retail Financial Dashboard](./Nova_Retail_Dashboard.png)
 
-Expense Control: Compared actual operating expenses with budgeted expenses to identify cost variances.
+Conclusion
 
-Business Recommendations
-
-Focus on products and regions with strong revenue and profit performance.
-
-Investigate negative revenue variances and identify opportunities to improve sales.
-
-Monitor operating expenses against budget to improve cost control.
-
-Use monthly financial trends to support budgeting and business decisions.
+This project demonstrates practical skills in financial analysis, KPI reporting, Excel dashboards, profitability analysis, and business decision support.

@@ -46,6 +46,28 @@ Project File
 
 The Excel workbook containing the financial analysis and dashboard is available in this repository.
 
-## Dashboard Preview
+Dashboard Preview
 
 ![Nova Retail Financial Dashboard](Nova_Retail_Dashboard.png)
+
+Financial Insights
+
+Revenue Performance: Compared actual revenue against budget revenue to identify over- and under-performance.
+
+Profitability Analysis: Evaluated gross profit, gross margin, and operating profit to understand overall financial performance.
+
+Regional Analysis: Compared revenue across Chennai, Bangalore, and Hyderabad to identify the leading region.
+
+Product Analysis: Compared Electronics and Furniture performance using revenue, gross profit, and gross margin.
+
+Expense Control: Compared actual operating expenses with budgeted expenses to identify cost variances.
+
+Business Recommendations
+
+Focus on products and regions with strong revenue and profit performance.
+
+Investigate negative revenue variances and identify opportunities to improve sales.
+
+Monitor operating expenses against budget to improve cost control.
+
+Use monthly financial trends to support budgeting and business decisions.

@@ -108,8 +108,6 @@ Power Query and DAX (if used)
 
 Dashboard Preview
 
-
-
 Project File
 
 View Power BI Dashboard File

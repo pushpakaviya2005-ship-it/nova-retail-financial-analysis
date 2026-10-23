@@ -112,3 +112,29 @@ Project File
 
 View Power BI Dashboard File
 ![Power BI Financial Performance Dashboard](Nova_Retail_PowerBI_Dashboard.png)
+
+Project 3: SQL Financial Data Analysis
+
+Project Overview
+
+A retail sales data analysis project using MySQL to explore sales performance and derive useful business insights.
+
+Database and Analysis
+
+Created a database named nova_retail
+
+Created a sales_data table
+
+Analysed sales data using SQL queries
+
+Explored sales by city, product and category
+
+Tools Used
+
+MySQL
+
+SQL
+
+Project File
+
+[View SQL Analysis Queries](Nova_Retail_Sales_Analysis.sql)
